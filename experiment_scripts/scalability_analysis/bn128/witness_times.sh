@@ -1,0 +1,11 @@
+/usr/bin/time -v node circuit_1024_js/generate_witness.js circuit_1024_js/circuit_1024.wasm input.json circuit_1024_js/witness.wtns
+/usr/bin/time -v node circuit_2048_js/generate_witness.js circuit_2048_js/circuit_2048.wasm input.json circuit_2048_js/witness.wtns
+/usr/bin/time -v node circuit_4096_js/generate_witness.js circuit_4096_js/circuit_4096.wasm input.json circuit_4096_js/witness.wtns
+/usr/bin/time -v node circuit_8192_js/generate_witness.js circuit_8192_js/circuit_8192.wasm input.json circuit_8192_js/witness.wtns
+/usr/bin/time -v node circuit_16384_js/generate_witness.js circuit_16384_js/circuit_16384.wasm input.json circuit_16384_js/witness.wtns
+/usr/bin/time -v node circuit_32768_js/generate_witness.js circuit_32768_js/circuit_32768.wasm input.json circuit_32768_js/witness.wtns
+/usr/bin/time -v node circuit_65536_js/generate_witness.js circuit_65536_js/circuit_65536.wasm input.json circuit_65536_js/witness.wtns
+/usr/bin/time -v node circuit_131072_js/generate_witness.js circuit_131072_js/circuit_131072.wasm input.json circuit_131072_js/witness.wtns
+/usr/bin/time -v node circuit_262144_js/generate_witness.js circuit_262144_js/circuit_262144.wasm input.json circuit_262144_js/witness.wtns
+/usr/bin/time -v node circuit_524288_js/generate_witness.js circuit_524288_js/circuit_524288.wasm input.json circuit_524288_js/witness.wtns
+/usr/bin/time -v node circuit_1048576_js/generate_witness.js circuit_1048576_js/circuit_1048576.wasm input.json circuit_1048576_js/witness.wtns
