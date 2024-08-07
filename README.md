@@ -145,7 +145,7 @@ Commands for offline installation [Intel web link](https://registrationcenter-do
 
 ### Test Scripts to Run the Experiments and Setups
 
-1. [Github link](https://github.com/)
+1. [Github link](https://github.com/Saichand-Samudrala/Performance-Analysis-of-Zero-Knowledge-Proofs)
 2. Update the paths as required.
 3. Generate the required ZKP algorithm keys and powers of tau setup files using the steps in the Snarkjs Github.
 4. Set CPU frequency using the following commands in admin mode:
