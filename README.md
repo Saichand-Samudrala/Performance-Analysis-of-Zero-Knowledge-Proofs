@@ -1,5 +1,5 @@
 # Performance-Analysis-of-Zero-Knowledge-Proofs
-##OS: Linux Ubuntu
+## OS: Linux Ubuntu
 IntelVTune Profiler Tool Installation
 Commands for offline installation lntel web link
 1.	wget https://registrationcenter-download.intel.com/akdlm/IRC_NAS/3ffac886-6281-46d7-8704-7aab66705926/l_oneapi_vtune_p_2024.2.0.708_offline.sh
